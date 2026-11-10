@@ -1,0 +1,8 @@
+📦 Kokoro-Workspace.zip
+├── gui_launcher.py       # The master cross-platform GUI dashboard
+├── app.py                # The dynamic Gradio dropdown menu web app
+└── README.guide          # The documentation guide sheet
+
+
+
+
